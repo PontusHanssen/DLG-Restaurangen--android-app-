@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MatsedelActivity!</string>
+    <string name="app_name">Matsedel</string>
+    <string name="idag">Idag</string>
+    <string name="vecka">Vecka</string>
+    <string name="termin">Termin</string>
+
+</resources>
